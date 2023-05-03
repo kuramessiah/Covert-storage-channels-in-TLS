@@ -53,7 +53,7 @@ Notice if you use proxy then proxy socket in arguments of client script is neede
 
 *python3 server.py --proxy 127.0.0.1 --sport 43433 --server 127.0.0.1 --dport 4433*
 
-### 3.2 Running filter device
+### 3.3 Running filter device
 
 Use the Suricata rule below to detect or prevent packets with non-zero (32 bytes) length of SessionID field.
 
