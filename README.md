@@ -24,6 +24,8 @@ Move the content of folder **filter device** to **suricata/src**. Edit the conte
 
 After adding changes configure and make as usual in Suricata.
 
+После внесения изменений проведите configure и make как обычно в Suricata.
+
 ## 3. Usage of framework
 
 Instructions how to run client and server see below. Notice that it is possible to specify server socket (host and port_) by adding arguments to the script running from the console.
